@@ -27,18 +27,6 @@ The primary goal of this project is to implement an efficient face-mask detectio
   - HSV Color Segmentation
 - **Viola-Jones Algorithm**: For efficient face detection, focusing on detecting relevant regions in each image.
 
-## Project Structure
-The project is organized as follows:
-```
-Industrial_Machine_Vision_Facemask_Detection_Project/
-├── code/
-│   └── FacemaskDetection.m          # Main MATLAB script for face-mask detection
-├── docs/
-│   └── markdown_files/
-│       ├── Automated_Facemask_Detection_Project.md   # Project details in Markdown format
-│       └── Project_Summary.md                        # One-liner project summary
-└── README.md                 # Project README file
-```
 
 ## Installation and Setup
 1. Ensure MATLAB is installed on your system.
