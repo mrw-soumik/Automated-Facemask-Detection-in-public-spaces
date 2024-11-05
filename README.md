@@ -7,7 +7,6 @@ This project aims to develop an automated system to detect face masks in public 
 ## Table of Contents
 - [Objective](#objective)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
 - [Results](#results)
